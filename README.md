@@ -1,5 +1,9 @@
 # SR-FLIPFLOP-USING-CASE
 
+NAME : AANANDHA KANNAN.S
+
+REF NO : 24900501
+
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
@@ -93,14 +97,16 @@ Endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot 2024-12-19 223939](https://github.com/user-attachments/assets/522eb59b-2032-40e0-bec6-12d9d4a2b8b7)
-
+![Screenshot 2024-12-21 103032](https://github.com/user-attachments/assets/3822b50f-d996-4d4b-b7dc-599172a9f3d8)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 ![Screenshot 2024-12-19 223952](https://github.com/user-attachments/assets/4b100f61-cb76-4dc5-8329-f4fd27e72913)
 
+RESULT
+
+Thus the sr flipflop using venilog is verified and validated the functionality through their functional gates.
 
 
 
